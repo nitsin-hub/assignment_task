@@ -1,0 +1,4 @@
+* * * * * /script.sh >> /output.txt
+* * * * * sleep 30; /script.sh >> /output.txt
+
+#run the bash script in every half minutes and append output in /output.txt file inside contatiner.
